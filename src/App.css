@@ -22,3 +22,27 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.buttonChangeColor {
+  margin: 30px 0px 30px 0px;
+}
+
+.backgroundGreen {
+  background-color: #008000;
+}
+
+.backgroundRed {
+  background-color: #FF0000;
+}
+
+.backgroundBlue {
+  background-color: #0000FF;
+}
+
+.backgroundYellow {
+  background-color: #FFFF00;
+}
+
+.backgroundBlack {
+  background-color: #000000;
+}
